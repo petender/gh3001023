@@ -39,3 +39,4 @@
 /workspaces/gh3001023/obj/Debug/net8.0/gh3001023.pdb
 /workspaces/gh3001023/obj/Debug/net8.0/gh3001023.genruntimeconfig.cache
 /workspaces/gh3001023/obj/Debug/net8.0/ref/gh3001023.dll
+/workspaces/gh3001023/bin/Debug/net8.0/sampledata.json

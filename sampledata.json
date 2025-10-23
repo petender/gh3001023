@@ -1,0 +1,72 @@
+[
+  {
+    "FirstName": "Alice",
+    "LastName": "Johnson",
+    "HiringDate": "2020-03-15",
+    "Department": "Engineering",
+    "JobTitle": "Software Engineer"
+  },
+  {
+    "FirstName": "Bob",
+    "LastName": "Smith",
+    "HiringDate": "2019-07-22",
+    "Department": "Marketing",
+    "JobTitle": "Marketing Manager"
+  },
+  {
+    "FirstName": "Carol",
+    "LastName": "Williams",
+    "HiringDate": "2021-01-10",
+    "Department": "Sales",
+    "JobTitle": "Sales Representative"
+  },
+  {
+    "FirstName": "David",
+    "LastName": "Brown",
+    "HiringDate": "2018-11-05",
+    "Department": "HR",
+    "JobTitle": "HR Specialist"
+  },
+  {
+    "FirstName": "Eve",
+    "LastName": "Davis",
+    "HiringDate": "2022-06-30",
+    "Department": "Finance",
+    "JobTitle": "Accountant"
+  },
+  {
+    "FirstName": "Frank",
+    "LastName": "Miller",
+    "HiringDate": "2017-09-18",
+    "Department": "Engineering",
+    "JobTitle": "DevOps Engineer"
+  },
+  {
+    "FirstName": "Grace",
+    "LastName": "Wilson",
+    "HiringDate": "2023-02-14",
+    "Department": "Support",
+    "JobTitle": "Support Analyst"
+  },
+  {
+    "FirstName": "Henry",
+    "LastName": "Moore",
+    "HiringDate": "2020-12-01",
+    "Department": "Engineering",
+    "JobTitle": "QA Engineer"
+  },
+  {
+    "FirstName": "Ivy",
+    "LastName": "Taylor",
+    "HiringDate": "2019-04-25",
+    "Department": "Design",
+    "JobTitle": "UI/UX Designer"
+  },
+  {
+    "FirstName": "Jack",
+    "LastName": "Anderson",
+    "HiringDate": "2021-08-19",
+    "Department": "Product",
+    "JobTitle": "Product Manager"
+  }
+]
